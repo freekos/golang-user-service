@@ -11,5 +11,5 @@ make up
 
 ### Complete
 ```sh
-make down
+make rm
 ```
