@@ -5,11 +5,11 @@
 ---
 
 ### Run
-`
+```sh
 make up
-`
+```
 
 ### Complete
-`
+```sh
 make down
-`
+```
